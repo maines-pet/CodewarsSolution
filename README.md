@@ -1,5 +1,6 @@
 # Codewars Solution
-Repository for solutions I created for some *Kata*'s in Codewars
+Repository for solutions I created for some *Kata*'s in Codewars. All written in java. This repo will be updated from time to time.
+
 
 #### List of Kata
 Kata | Kata Level
